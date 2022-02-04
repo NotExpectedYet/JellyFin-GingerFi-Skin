@@ -1,6 +1,6 @@
 
 /*Style backdrop*/
-.backdropImage {filter: blur(18px) saturate(120%) contrast(120%) brightness(40%);}
+.backdropImage {filter: blur(18px) saturate(120%) contrast(120%) brightness(40%); }
 
 /*Login background*/
 #loginPage {background: url(https://i.imgur.com/9vL4iNf.png) !important;}
